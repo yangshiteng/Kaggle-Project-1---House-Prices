@@ -12,5 +12,7 @@ The model will be evaluated by the metric 'Root-Mean-Square-Error' (RMSE) betwee
 # File Descriptions:
 
 train.csv - the training set
+
 test.csv - the test set
+
 data_description.txt - full description of each column
