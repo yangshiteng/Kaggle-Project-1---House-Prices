@@ -16,3 +16,27 @@ train.csv - the training set
 test.csv - the test set
 
 data_description.txt - full description of each column
+
+# Exploratory Data Analysis
+
+1. Boxplot
+2. Scatterplot
+3. Histogram
+4. Correlation
+
+# Feature Engineering
+
+1. Skewness Correction
+2. Fill Missing Values
+3. Create New Features 
+4. Feature Transformation
+5. Encode Categorical Features
+
+# Model Training
+
+1. 12-fold Cross Validation
+2. 7 models: ridge, svr, gradient boosting, random forest, xgboost, lightgbm regressors, StackingSVRegressor
+3. Blending all these 7 models to get more robust predictions
+
+
+
